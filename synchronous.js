@@ -7,7 +7,7 @@ const name3 = "Mahmud";
 
 console.log("start");
 
-for(let i = 0; i < 5; i++) {
+for(let i = 0; i < 50; i++) {
     console.log("Hello " + name1);
 }
 
